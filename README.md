@@ -6,7 +6,7 @@ Submitted by: **Stephanie Jen**
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/telling-rumbling-flamingo?path=index.html%3A38%3A3)
 
 ## Required Functionality
 
