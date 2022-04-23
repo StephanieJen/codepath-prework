@@ -52,7 +52,8 @@ If I had more time, I would want to add more visual features such as changing sh
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://psu.zoom.us/rec/share/oT7sDOwA8jrs8n_MK8PQuTNSs-z9UWJiK_-jdiyEeqCdvx6xHj3mcWM6NMps2dtR.4iXOfy8c7DufpSxa
+)
 
 
 ## License
