@@ -4,7 +4,7 @@
 
 Submitted by: **Stephanie Jen**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project:https://glitch.com/edit/#!/telling-rumbling-flamingo?path=index.html%3A38%3A3
 
